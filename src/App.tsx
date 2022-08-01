@@ -1,6 +1,12 @@
 import {useEffect} from "react";
 import {LogoutStatusRouter} from "./router/logout.status.router";
 
+
+/**
+ * 
+ * @constructor
+ */
+
 export default function App() {
 
   useEffect(()=>{
