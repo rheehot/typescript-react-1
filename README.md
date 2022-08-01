@@ -1,3 +1,8 @@
+
+# TypeScript + React 초기 셋팅 템플릿입니다.
+
+저는 웹 프론트엔드 개발자가 아니므로 따로 test 모둘까지 만들지 않을 겁니다 ㅎㅎ
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
